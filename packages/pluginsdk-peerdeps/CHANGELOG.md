@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.20.0](https://github.com/spinnaker/deck/compare/@spinnaker/pluginsdk-peerdeps@0.19.0...@spinnaker/pluginsdk-peerdeps@0.20.0) (2024-01-01)
+
+
+### Features
+
+* **peerdep-sync:** Synchronize peerdependencies ([7d9cbbc](https://github.com/spinnaker/deck/commit/7d9cbbcad76ab8b2222da512c90a7b78061c4044))
+
+
+
+
+
 # [0.19.0](https://github.com/spinnaker/deck/compare/@spinnaker/pluginsdk-peerdeps@0.18.0...@spinnaker/pluginsdk-peerdeps@0.19.0) (2023-12-07)
 
 
