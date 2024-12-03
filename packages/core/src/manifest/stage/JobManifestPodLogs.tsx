@@ -140,6 +140,7 @@ export class JobManifestPodLogs extends React.Component<IJobManifestPodLogsProps
               {errorMessage && <pre className="body-small">{errorMessage}</pre>}
             </Modal.Body>
             <Modal.Footer>
+              <Button onClick={this.onClick}>Refresh</Button>
               <Button onClick={this.close}>Close</Button>
             </Modal.Footer>
           </Modal>
